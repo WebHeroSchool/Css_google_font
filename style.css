@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto|Srisakdi');
+
+* {
+	font-family: Srisakdi;
+}
+
+h1 {
+	font-family: Roboto;
+}
